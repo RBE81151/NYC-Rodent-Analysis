@@ -22,6 +22,6 @@ This project analyzes New York City rodent inspection data (2016–2025) using *
 ---
 
 ## 📈 Dashboard
-[Executive Report PDF](executive_view.pdf)
+[Executive Report PDF](./executive_view.pdf)
 
-[SQL Query Screenshot](sql_query.png)
+[SQL Query Screenshot](./sql_query.png)
