@@ -6,7 +6,7 @@ This project analyzes New York City rodent inspection data (2016–2025) using *
 ---
 
 ## 🔎 SQL Query
-[View SQL Script](sql/rodents_summary.sql)
+[SQL Query](sql/rodents_summary.sql)
 
 ---
 
@@ -22,6 +22,6 @@ This project analyzes New York City rodent inspection data (2016–2025) using *
 ---
 
 ## 📈 Dashboard
-![Dashboard Screenshot](screenshots/rodent.bi.webflow.png)  
+[Dashboard Screenshot](screenshots/rodent.bi.webflow.png)
 
-📄 [Full Report PDF](docs/executive_view.pdf)
+[Executive Report PDF](docs/executive_view.pdf)
